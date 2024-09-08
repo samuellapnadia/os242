@@ -1,5 +1,5 @@
 ---
 ---
-* [My Log](TXT/mylog.txt){:target="_blank"} ---
-* [My GitHub](https://github.com/samuellapnadia){:target="_blank"} ---
-* [Helpful Links](LINKS/){:target="_blank"} ---
+* [My Log](TXT/mylog.txt)
+* [My GitHub](https://github.com/samuellapnadia)
+* [Helpful Links](LINKS/)
