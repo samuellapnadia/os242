@@ -17,6 +17,9 @@ permalink: LINKS/
 ### WEEK 3 💡
 * [CyberSecurity Course by Google](https://www.youtube.com/watch?v=_DVVNOGYtmU)
   A video provided on Google Career Certificates' YouTube channel that teaches people the basics of cybersecurity and aims to help them prepare for an entry-level cybersecurity job.
+### WEEK 4 💡
+* [Pointers in C/C++ Full Course](https://www.youtube.com/watch?v=_DVVNOGYtmU](https://www.youtube.com/watch?v=zuegQmMdy8M)
+  A 3 hour course in YouTube that covers pointers in C/C++
 
 
 
