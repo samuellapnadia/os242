@@ -20,6 +20,9 @@ permalink: LINKS/
 ### WEEK 4 💡
 * [Pointers in C/C++ Full Course](https://www.youtube.com/watch?v=zuegQmMdy8M)
   A 3 hour course in YouTube that covers pointers in C/C++
+### WEEK 5 💡
+* [What is Paging? YouTube Video](https://www.youtube.com/watch?v=6c-mOFZwP_8)
+  A helpful YouTube tutorial that explains about paging in memory management
 
 
 
