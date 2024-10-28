@@ -25,7 +25,7 @@ permalink: LINKS/
   A helpful YouTube tutorial that explains about paging in memory management
 ### WEEK 6 💡
 * [Loops in C - Clear Explanation](https://www.youtube.com/watch?v=mkuFtOB721w)
-  An explanation video provided by CSE GURUS that teaches about Loops in C
+  An explanation video provided by CSE GURUS that teaches about Loops in C.
 
 
 
