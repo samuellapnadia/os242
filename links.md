@@ -26,6 +26,7 @@ permalink: LINKS/
 ### WEEK 6 💡
 * [Loops in C - Clear Explanation](https://www.youtube.com/watch?v=mkuFtOB721w)
   An explanation video provided by CSE GURUS that teaches about Loops in C.
-
-
+### WEEK 7 💡
+* [Monitor vs Semaphore](https://www.geeksforgeeks.org/monitor-vs-semaphore/)
+  Explanations provided by GeeksForGeeks regarding Monitor and Semaphore.
 
