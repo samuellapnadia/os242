@@ -29,4 +29,7 @@ permalink: LINKS/
 ### WEEK 7 💡
 * [Monitor vs Semaphore](https://www.geeksforgeeks.org/monitor-vs-semaphore/)
   Explanations provided by GeeksForGeeks regarding Monitor and Semaphore.
+### WEEK 8 💡
+* [SED Reference Guide](https://linuxhandbook.com/sed-reference-guide/)
+  A linux handbook that gives a guide about SED Reference.
 
