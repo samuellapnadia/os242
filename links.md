@@ -32,4 +32,6 @@ permalink: LINKS/
 ### WEEK 8 💡
 * [SED Reference Guide](https://linuxhandbook.com/sed-reference-guide/)
   A linux handbook that gives a guide about SED Reference.
-
+### WEEK 9 💡
+* [C-LOOK Disk Scheduling Algorithm](https://www.geeksforgeeks.org/c-look-disk-scheduling-algorithm/)
+  Explanations provided by GeeksForGeeks about C-LOOK Disk Scheduling Algorithm
